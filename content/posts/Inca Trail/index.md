@@ -1,7 +1,7 @@
 ---
 title: "Inca Trail"
 browserTitle: "Inca Trail | Reisverslag | Rondreis | Oktober 2012"
-path: "/inca-trail"
+path: "/inca-trail/"
 tags: ["Peru", "Rondreizen", "Zuid-Amerika"]
 excerpt: "Reisverslag van de Inca Trail van 23 t/m 26 oktober 2012. Highlights: Machu Picchu, Dead Woman's Pass en Winaywayna"
 featuredImage: "./machu-picchu.jpg"

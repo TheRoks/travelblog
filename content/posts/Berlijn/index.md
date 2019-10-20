@@ -1,7 +1,7 @@
 ---
 title: "Berlijn"
 browserTitle: "Berlijn | Reisverslag | Citytrip | Juli 2012"
-path: "/berlijn"
+path: "/berlijn/"
 tags: ["Europa", "Citytrips", "Duitsland"]
 excerpt: "Reisverslag van een stedentrip naar Berlijn met de trein. Bezienswaardigheden: Brandenburgtor, Checkpoint Charlie, Reichstag en de Berlijnse Muur"
 featuredImage: "./brandenburgertor.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Zuid-Italië"
 browserTitle: "Zui-Italie | Reisverslag | Rondreis | Mei 2013"
-path: "/zuid-italie"
+path: "/zuid-italie/"
 tags: ["Europa", "Italie", "Rondreizen"]
 excerpt: "Een reisverslag van een reis door het zuiden van Italië. Van de Amalfi kust naar Sicilië, via Pompeï en het grottendorp Matera."
 featuredImage: "./amalfikust.jpg"

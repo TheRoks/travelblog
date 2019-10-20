@@ -1,7 +1,7 @@
 ---
 title: "Rome"
 browserTitle: "Rome | Reisverslag | Citytrip | Mei 2013"
-path: "/rome"
+path: "/rome/"
 tags: ["Citytrips", "Europa", "Italie"]
 excerpt: "Een reisverslag van mijn stedentrip naar Rome. Lees hier over het de gezellige pleintjes, het Colosseum, Vaticaanstad, Forum Romanum en de Trevifontein."
 featuredImage: "./sint-pieterplein.jpg"

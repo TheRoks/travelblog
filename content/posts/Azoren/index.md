@@ -1,7 +1,7 @@
 ---
 title: "Azoren"
 browserTitle: "Azoren | Reisverslag | Rondreis | September 2013"
-path: "/azoren"
+path: "/azoren/"
 tags: ["Europa", "Rondreizen", "Portugal"]
 excerpt: "Een reisverslag van een reis door de Azoren."
 featuredImage: "./lagao-do-fogo1.jpg"

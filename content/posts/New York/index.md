@@ -1,7 +1,7 @@
 ---
 title: "New York"
 browserTitle: "New York | Reisverslag | Citytrip | Mei 2011"
-path: "/new-york"
+path: "/new-york/"
 tags: ["Noord-Amerika", "Citytrips", "Verenigde Staten"]
 excerpt: "Een stedentrip in mei 2011 naar New York, een reisverslag."
 featuredImage: "./times-square.jpg"

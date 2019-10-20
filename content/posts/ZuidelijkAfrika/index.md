@@ -1,7 +1,7 @@
 ---
 title: "Zuidelijk Afrika"
 browserTitle: "Zuidelijk Afrika | Reisverslag | Rondreis | November 2011"
-path: "/zuidelijk-afrika"
+path: "/zuidelijk-afrika/"
 tags: ["Afrika", "Botswana", "Namibie", "Rondreizen", "Zimbabwe", "Zuid-Afrika"]
 excerpt: "Een rondreis door Zuidelijk Afrika van Johannesburg via Zimbabwe, Botswana en Namibië naar Kaapstad. Zie hier de afgelegde route op een Google Maps kaart"
 featuredImage: "./etosha.jpg"

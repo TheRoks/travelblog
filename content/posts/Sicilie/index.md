@@ -1,7 +1,7 @@
 ---
 title: "Sicilië"
 browserTitle: "Sicilie | Reisverslag | Rondreis | Mei 2013"
-path: "/sicilie"
+path: "/sicilie/"
 tags: ["Europa", "Italie", "Rondreizen"]
 excerpt: "Een reisverslag van reis door Sicilië. Deze reis heeft als hoogtepunten, Etna, Siracusa, Taormina, Catania, Trapani en Agrigento."
 featuredImage: "./agrigento.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Italië"
 browserTitle: "Italie | Reisverslag | Rondreis | April 2013"
-path: "/italie"
+path: "/italie/"
 tags: ["Europa", "Rondreizen"]
 excerpt: "Een reisverslag van een rondreis door Italië. De reis gaat langs, Rome, Sorrento, Napels, Amalfikust, Matera, Tropea en door Sicilië in Siracusa en Trapani."
 created: 2013-04-21

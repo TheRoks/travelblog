@@ -1,7 +1,7 @@
 ---
 title: "Peru"
 browserTitle: "Peru | Reisverslag | Rondreis | Oktober 2012"
-path: "/peru"
+path: "/peru/"
 tags: ["Zuid-Amerika", "Rondreizen", "Peru"]
 featuredImage: "./colca-canyon.jpg"
 excerpt: "Reisverslag van een rondreis door Peru en Bolivia van 6 t/m 30 oktober 2012. Highlights: Machu Picchu met Inca Trail, Nazca lijnen en het Titicacameer."

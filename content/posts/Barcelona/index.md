@@ -1,7 +1,7 @@
 ---
 title: "Barcelona"
 browserTitle: "Barcelona | Reisverslag | Citytrip | Oktober 2005"
-path: "/barcelona"
+path: "/barcelona/"
 tags: ["Europa", "Citytrips", "Spanje"]
 excerpt: "Een stedentrip in oktober 2005 naar Barcelona, een reisverslag."
 created: 2008-09-14

@@ -1,7 +1,7 @@
 ---
 title: "Bolivia"
 browserTitle: "Bolivia | Reisverslag | Rondreis | Oktober 2012"
-path: "/bolivia"
+path: "/bolivia/"
 tags: ["Zuid-Amerika", "Rondreizen", "Bolivia"]
 featuredImage: "./salar-de-uyuni.jpg"
 excerpt: "Reisverslag van een rondreis door Peru en Bolivia van 6 t/m 30 oktober 2012. Highlights: Machu Picchu met Inca Trail, Nazca lijnen en het Titicacameer."
