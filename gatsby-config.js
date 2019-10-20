@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: "Travel by TheRoks",
+    title: "Reisverhalen door Stefan",
     siteUrl: "https://travel.theroks.com",
     twitterHandle: "@theroks",
     url: "https://travel.theroks.com",
     description:
-      "Reisverhalen",
+      "Reisverhalen van over de hele wereld door Stefan",
     topics: [],
     menu: [
       {

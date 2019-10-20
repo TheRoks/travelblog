@@ -21,7 +21,7 @@ const SEO: FunctionComponent<SEOProps> = ({
   title,
   browserTitle,
   description,
-  lang = "en",
+  lang = "nl",
   location,
   publishedAt,
   updatedAt,
